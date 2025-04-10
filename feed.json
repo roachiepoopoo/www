@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "roachiepoopoo.com",
+    "description": "",
+    "home_page_url": "https://www.roachiepoopoo.com",
+    "feed_url": "https://www.roachiepoopoo.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "roachiepoopoo"
+    },
+    "items": [
+        {
+            "id": "https://www.roachiepoopoo.com/this-site-has-roachiepoopoo.html",
+            "url": "https://www.roachiepoopoo.com/this-site-has-roachiepoopoo.html",
+            "title": "This site has roachiepoopoo",
+            "summary": "Ah, the internet. I’ve been mostly silent for a long time now, but I’m working my way back to having a persistent online presence of some kind. In the spirit of POSSE, I intend to post original content here, and then link back to these&hellip;",
+            "content_html": "<p>Ah, the internet.  I’ve been mostly silent for a long time now, but I’m working my way back to having a persistent online presence of some kind.  In the spirit of <a href=\"https://indieweb.org/POSSE\">POSSE</a>, I intend to post original content here, and then link back to these posts from other sites and services.</p>",
+            "author": {
+                "name": "roachiepoopoo"
+            },
+            "tags": [
+                   "About This Site"
+            ],
+            "date_published": "2023-11-14T12:00:00-08:00",
+            "date_modified": "2023-11-20T22:46:50-08:00"
+        }
+    ]
+}

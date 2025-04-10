@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>roachiepoopoo.com</title>
+    <link href="https://www.roachiepoopoo.com/feed.xml" rel="self" />
+    <link href="https://www.roachiepoopoo.com" />
+    <updated>2023-11-20T22:46:50-08:00</updated>
+    <author>
+        <name>roachiepoopoo</name>
+    </author>
+    <id>https://www.roachiepoopoo.com</id>
+
+    <entry>
+        <title>This site has roachiepoopoo</title>
+        <author>
+            <name>roachiepoopoo</name>
+        </author>
+        <link href="https://www.roachiepoopoo.com/this-site-has-roachiepoopoo.html"/>
+        <id>https://www.roachiepoopoo.com/this-site-has-roachiepoopoo.html</id>
+            <category term="About This Site"/>
+
+        <updated>2023-11-14T12:00:00-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Ah, the internet. I’ve been mostly silent for a long time now, but I’m working my way back to having a persistent online presence of some kind. In the spirit of POSSE, I intend to post original content here, and then link back to these&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ah, the internet.  I’ve been mostly silent for a long time now, but I’m working my way back to having a persistent online presence of some kind.  In the spirit of <a href="https://indieweb.org/POSSE">POSSE</a>, I intend to post original content here, and then link back to these posts from other sites and services.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
