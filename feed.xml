@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>roachiepoopoo.com</title>
+    <title>this site has roachiepoopoo</title>
     <link href="https://www.roachiepoopoo.com/feed.xml" rel="self" />
     <link href="https://www.roachiepoopoo.com" />
     <updated>2023-11-20T22:46:50-08:00</updated>
@@ -14,8 +14,8 @@
         <author>
             <name>roachiepoopoo</name>
         </author>
-        <link href="https://www.roachiepoopoo.com/this-site-has-roachiepoopoo.html"/>
-        <id>https://www.roachiepoopoo.com/this-site-has-roachiepoopoo.html</id>
+        <link href="https://www.roachiepoopoo.com/this-site-has-roachiepoopoo/"/>
+        <id>https://www.roachiepoopoo.com/this-site-has-roachiepoopoo/</id>
             <category term="About This Site"/>
 
         <updated>2023-11-14T12:00:00-08:00</updated>

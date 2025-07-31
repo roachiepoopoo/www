@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "roachiepoopoo.com",
+    "title": "this site has roachiepoopoo",
     "description": "",
     "home_page_url": "https://www.roachiepoopoo.com",
     "feed_url": "https://www.roachiepoopoo.com/feed.json",
@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://www.roachiepoopoo.com/this-site-has-roachiepoopoo.html",
-            "url": "https://www.roachiepoopoo.com/this-site-has-roachiepoopoo.html",
+            "id": "https://www.roachiepoopoo.com/this-site-has-roachiepoopoo/",
+            "url": "https://www.roachiepoopoo.com/this-site-has-roachiepoopoo/",
             "title": "This site has roachiepoopoo",
             "summary": "Ah, the internet. I’ve been mostly silent for a long time now, but I’m working my way back to having a persistent online presence of some kind. In the spirit of POSSE, I intend to post original content here, and then link back to these&hellip;",
             "content_html": "<p>Ah, the internet.  I’ve been mostly silent for a long time now, but I’m working my way back to having a persistent online presence of some kind.  In the spirit of <a href=\"https://indieweb.org/POSSE\">POSSE</a>, I intend to post original content here, and then link back to these posts from other sites and services.</p>",
